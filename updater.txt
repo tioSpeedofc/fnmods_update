@@ -1,0 +1,18 @@
+{
+  "fnmods_update": [
+    {
+ "version":"2.0",
+ "title":"Update Disponible",
+ "description":"Nexus img V2.0
+
+Base: 1.43 0.56
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+Nova atualização do Nexus disponível 😷
+
+ Erro ao instalar arquivo na pasta data? Veja o video abaixo 👇",
+"download":"https://youtube.com/@Tio_speed_ofc"
+}
+  ]
+}

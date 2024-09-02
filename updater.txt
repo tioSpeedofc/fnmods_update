@@ -1,18 +1,16 @@
 {
   "fnmods_update": [
     {
- "version":"9.62",
+ "version":"ATUALIZAÇÃO NOVA DISPONÍVEL ⁉️",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
-
-Base: 2.23 1.76
+ "description":"APK EDITOR X, VERSÃO ATUAL 3.0.1
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
+Caso já esteja atualizado apenas ignora 😐
 
- Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/rY2otd2NacA"
+ Atualizar: APK EDITOR X, UPDATE 3.0.1",
+"download":"https://youtu.be/@xSpeed.7w"
 }
   ]
 }

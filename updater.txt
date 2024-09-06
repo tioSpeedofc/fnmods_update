@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"ATUALIZAÇÃO NOVA DISPONÍVEL",
+ "version":"INFORMAÇÕES SOBRE ATUALIZAÇÃO",
  "title":"Update Disponible",
  "description":"APK EDITOR X
  Versão atual: 3.0.1
@@ -9,9 +9,7 @@
 
 SE JÁ ESTIVER ATUALIZADO IGNORA 😐
 
-FUNCIONA HIRAM ❓😦
-
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 
 Todas as atualizações é por aqui ou no meu canal!!",
 "download":"https://youtu.be/@xSpeed.7w"

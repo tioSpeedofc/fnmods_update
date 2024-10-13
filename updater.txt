@@ -6,16 +6,14 @@
  "description":"APK EDITOR X
  Versão atual: 3.0.1
  Nova versão: 3.0.2
- 🇧🇷 SENHHA: FNMODS
- 🇺🇸 PASSWORD: FNMODS
+ PASSWORD: FNMODS
 
 SE JÁ ESTIVER ATUALIZADO, IGNORA 😐
-IF IT IS ALREADY UPDATED, IGNORE 😐
 
 °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 
 Todas as atualizações é por aqui ou no meu canal!!",
-"download":"https://youtu.be/@xSpeed.7w"
+"download":"https://www.mediafire.com/file/wzsiju3vohk1d8x/APK_EDITOR_X_%25F0%259F%2593%25B3%25F0%259F%25A7%25AA.zip/file"
 }
   ]
 }
